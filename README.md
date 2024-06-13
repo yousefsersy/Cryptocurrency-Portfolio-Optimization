@@ -44,7 +44,6 @@ Code: The starter code includes the initial data import and preparation steps.
 
 # Key Technologies and Libraries
 * Python
-* TensorFlow
 * Pandas
 * NumPy
 * SQL
